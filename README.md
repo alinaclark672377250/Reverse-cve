@@ -759,6 +759,5 @@ The incomplete patch was found in the AI-assisted run specifically because the A
 ---
 **Note:** *Frame exploits as defensive research.* Your PoC exists to verify the bug and build detection templates, not as a ready-to-fire attack tool for production systems.
 
-**Author: Shivam Kamboj | [Twitter/X](https://twitter.com/sechunt3r) | [GitHub](https://github.com/sechunt3r) | [Linkedin](https://www.linkedin.com/in/sechunt3r)**
 
 **Tags:**  `WordPress`, `SQL Injection`, `SQLi`, `CVE-2023-50839`, `CVE-2023-7337`, `Reverse Engineering`, `Incomplete Patch`, `Vulnerability Research`, `Bug Bounty`, `AI-Assisted Research`, `Security Research`, `Security`, `Research`, `AI`, `Web2`
